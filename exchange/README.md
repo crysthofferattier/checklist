@@ -10,8 +10,8 @@
 
 | Items | Status |
 | ----- | ------ |
-| Passport | x |
-| N26 | x |
+| Passport | OK |
+| Monese | OK |
 | Transferwise | x |
 | € 3000 (EUR) | x |
 | Program | x |
@@ -24,7 +24,7 @@
 ### Information
 
 * [Passport](http://www.pf.gov.br/servicos-pf/passaporte/passaporte)
-* [N26](https://next.n26.com/en-eu/)
+* [Monese](https://monese.com/)
 * [Transferwise](https://transferwise.com/br/)
 
 ### Help

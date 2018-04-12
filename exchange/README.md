@@ -14,6 +14,7 @@
 | Monese | OK |
 | Transferwise | x |
 | € 3000 (EUR) | x |
+| € ++++ (EUR) | x |
 | Program | x |
 | Air ticket | x |
 | Begin | x/x/2019 |

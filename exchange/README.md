@@ -11,8 +11,8 @@
 | Items | Status |
 | ----- | ------ |
 | Passport | OK |
-| Monese | OK |
-| Transferwise | x |
+| Account | x |
+| Transferwise | OK |
 | € 3000 (EUR) | x |
 | € ++++ (EUR) | x |
 | Program | x |

@@ -13,7 +13,7 @@
 | Passport | OK |
 | Account | OK |
 | Transferwise | OK |
-| € 3000 (EUR) | x |
+| € 4500 (EUR) | x |
 | € ++++ (EUR) | x |
 | Program | x |
 | Air ticket | x |

@@ -11,7 +11,7 @@
 | Items | Status |
 | ----- | ------ |
 | Passport | OK |
-| Account | x |
+| Account | OK |
 | Transferwise | OK |
 | € 3000 (EUR) | x |
 | € ++++ (EUR) | x |
@@ -25,12 +25,15 @@
 ### Information
 
 * [Passport](http://www.pf.gov.br/servicos-pf/passaporte/passaporte)
-* [Monese](https://monese.com/)
+* [LeuPay](https://www.leupay.eu/)
 * [Transferwise](https://transferwise.com/br/)
+
+### Agencys
+
+* [T2T](http://t2tagency.com/)
 
 ### Help
 
-* [Gabi a Bordo](https://gabiabordo.wixsite.com/gabiabordo)
 * [E-Dublin](https://www.e-dublin.com.br/)
 * [IRP](https://www.e-dublin.com.br/como-tirar-o-irish-residence-permit-em-dublin/)
 * [eurodicas](https://www.eurodicas.com.br/irlanda/)

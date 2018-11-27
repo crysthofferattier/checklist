@@ -16,6 +16,7 @@
 | € 3000 (EUR) | x |
 | € ++++ (EUR) | x |
 | Program | T2T |
+| School | Dorset College |
 | Air ticket | x |
 | Begin | x/x/2019 |
 | End | x/x/xxxx |

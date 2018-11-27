@@ -14,7 +14,7 @@
 | Account | OK |
 | Transferwise | OK |
 | € 3000 (EUR) | x |
-| € ++++ (EUR) | x |
+| € 3000 (EUR) | x |
 | Program | T2T |
 | School | Dorset College |
 | Air ticket | x |

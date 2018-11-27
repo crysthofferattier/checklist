@@ -13,19 +13,19 @@
 | Passport | OK |
 | Account | OK |
 | Transferwise | OK |
-| € 4500 (EUR) | x |
+| € 3000 (EUR) | x |
 | € ++++ (EUR) | x |
-| Program | x |
+| Program | T2T |
 | Air ticket | x |
 | Begin | x/x/2019 |
 | End | x/x/xxxx |
-| Home exchange | x |
+| Home exchange | 2w |
 | Irish Residence Permit (IRP) | x |
 
 ### Information
 
 * [Passport](http://www.pf.gov.br/servicos-pf/passaporte/passaporte)
-* [LeuPay](https://www.leupay.eu/)
+* [N26](https://n26.com/en-eu/)
 * [Transferwise](https://transferwise.com/br/)
 
 ### Agencys

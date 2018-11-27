@@ -18,7 +18,7 @@
 | Program | T2T |
 | School | Dorset College |
 | Air ticket | x |
-| Begin | x/x/2019 |
+| Begin | x/11/2019 |
 | End | x/x/xxxx |
 | Home exchange | 2w |
 | Irish Residence Permit (IRP) | x |

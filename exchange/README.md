@@ -17,9 +17,9 @@
 | € 3000 (EUR) | x |
 | Program | T2T |
 | School | Dorset College |
-| Air ticket | x |
+| Air ticket | OK |
 | Begin | 02/05/2019 |
-| End | 27/11/xxxx |
+| End | 27/11/2019 |
 | Home exchange | 2w |
 | Irish Residence Permit (IRP) | x |
 

@@ -20,8 +20,11 @@
 | Air ticket | OK |
 | Begin | 02/05/2019 |
 | End | 27/11/2019 |
-| Home exchange | 2w |
+| Home exchange (Agency) | 2w |
 | Irish Residence Permit (IRP) | x |
+| Leap Card | x |
+| Home | x |
+| Job | x |
 
 ### Information
 

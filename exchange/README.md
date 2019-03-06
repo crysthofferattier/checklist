@@ -13,7 +13,7 @@
 | Passport | OK |
 | Account | OK |
 | Transferwise | OK |
-| € 3000 (EUR) | x |
+| € 3000 (EUR) | OK |
 | € 3000 (EUR) | x |
 | Program | T2T |
 | School | Dorset College |

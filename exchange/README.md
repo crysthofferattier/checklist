@@ -25,7 +25,7 @@
 | Leap Card | x |
 | Home | x |
 | Job | x |
-| Assist Card | x |
+| Assist Card | OK |
 
 ### Information
 

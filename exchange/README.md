@@ -21,10 +21,10 @@
 | Begin | 02/05/2019 |
 | End | 27/11/2019 |
 | Home exchange (Agency) | 2w |
-| Irish Residence Permit (IRP) | x |
-| Leap Card | x |
-| Home | x |
-| Job | x |
+| Irish Residence Permit (IRP) | OK |
+| Leap Card | OK |
+| Home | OK |
+| Job | OK |
 | Assist Card | OK |
 
 ### Information
